@@ -27,7 +27,8 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![ASSEMBLY OF POLAR 3D PRINTER](https://github.com/Nandhinijaya/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121998147/7b26852b-2075-4fde-a21b-9d55b3823a20)
+
 
 Y-Axis Base :The Y-axis base in 3D printing plays a vital role in providing stability, guiding movement, ensuring accurate print bed alignment, and incorporating additional features such as heating elements
 
